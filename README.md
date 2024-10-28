@@ -25,16 +25,18 @@ Employment Period: November 2023 - Present
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Analysis and Packet Inspection         | <a href="https://google.com">Detection Lab</a>|
+| Microsoft Defender and Firewall  | <a href="https://google.com">Detection Lab</a>|
+| Intrusion Prevention/Detection System (IPS/IDS)         | SOC Automation Lab|
+| Vulnerability Scanning and Remediation      | SOC Automation Lab|
+| Endpoint Investigation using Sysmon and Event Viewer                  | SOC Automation Lab|
+| Phishing Analysis and Malicious Artifacts | SOC Automation Lab|
+| Security Monitoring and Analysis | | 
+| Digital Forensic and Artifacts Extraction | 
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -69,10 +71,4 @@ Employment Period: November 2023 - Present
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
-- Microsoft Windows and Firewall
-- Decrypting HTTPS using Wireshark
-- Creating and Configuring alert using Snort
-- Performing Vulnerability Scanning and Remediation via Nessus
-- Utilizing Phistool to analyze Phishing Emails and their artificts
-- 
+
