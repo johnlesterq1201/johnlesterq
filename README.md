@@ -65,6 +65,13 @@ Employment Period: November 2023 - Present
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC%20%C2%AE%20Certified%20in%20Cybersecurity-4CAF50?style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-TryHackMe%20SOC%20Level%201-001F3F?style=for-the-badge&logo=TryHackMe&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity-FBC02D?style=for-the-badge&logo=Google&logoColor=white" />
+
+
+
+
 </div>
 
 
