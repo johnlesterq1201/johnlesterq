@@ -9,6 +9,9 @@ Transitioning from a Service Desk Anaylst and seeking a full-time position in Cy
 Position: Service Desk Analyst
 Company: DFI Retail Group
 Employment Period: November 2023 - Present
+
+
+
 ●	Respond to and manage IT incidents, ensuring swift escalation and resolution to minimize downtime and operational disruptions.
 ●	Perform administrative tasks and maintain Microsoft Active Directory, Exchange Online, Azure and Delinea Privilege Access Management systems to ensure secure access and efficient user management. 
 ●	Triage and troubleshoot incoming support tickets, identifying issues and providing effective solutions while ensuring timely resolution and escalation when necessary.
