@@ -1,11 +1,11 @@
 # Hello, I'm John Lester Quiñanola
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Introduction
 
 I am an aspiring cybersecurity analyst with a solid foundation in technology and a passion for tackling complex security challenges. I’m driven to deepen my cybersecurity knowledge, build hands-on experience, and make impactful contributions to securing digital environments.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 With a clear focus on transitioning into cybersecurity, I am driven by a specific goal to join a Security Operations Center (SOC). I am eager to contribute to proactive threat detection and response, advance my technical expertise in a SOC environment, and help secure digital assets and company infrastructure
 
