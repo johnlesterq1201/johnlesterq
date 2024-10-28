@@ -1,9 +1,8 @@
 # Hello, I'm John Lester Quiñanola
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity analyst with a solid foundation in technology and a passion for tackling complex security challenges. I’m driven to deepen my cybersecurity knowledge, build hands-on experience, and make impactful contributions to securing digital environments.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
