@@ -13,8 +13,11 @@ Employment Period: November 2023 - Present
 
 
 ●	Respond to and manage IT incidents, ensuring swift escalation and resolution to minimize downtime and operational disruptions.
+
 ●	Perform administrative tasks and maintain Microsoft Active Directory, Exchange Online, Azure and Delinea Privilege Access Management systems to ensure secure access and efficient user management. 
+
 ●	Triage and troubleshoot incoming support tickets, identifying issues and providing effective solutions while ensuring timely resolution and escalation when necessary.
+
 ●	Respond promptly and professionally to incoming technical support requests via phone, email, or ticketing system
 
 
