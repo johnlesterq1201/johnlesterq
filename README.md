@@ -7,7 +7,9 @@ Transitioning from a Service Desk Anaylst and seeking a full-time position in Cy
 
 ## Experience
 Position: Service Desk Analyst
+
 Company: DFI Retail Group
+
 Employment Period: November 2023 - Present
 
 
