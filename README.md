@@ -70,5 +70,9 @@ Employment Period: November 2023 - Present
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Microsoft Windows and Firewall
+- Decrypting HTTPS using Wireshark
+- Creating and Configuring alert using Snort
+- Performing Vulnerability Scanning and Remediation via Nessus
+- Utilizing Phistool to analyze Phishing Emails and their artificts
+- 
