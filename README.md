@@ -7,7 +7,7 @@ I am an aspiring cybersecurity analyst with a solid foundation in technology and
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a clear focus on transitioning into cybersecurity, I am driven by a specific goal to join a Security Operations Center (SOC). I am eager to contribute to proactive threat detection and response, advance my technical expertise in a SOC environment, and help secure digital assets and company infrastructure
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
