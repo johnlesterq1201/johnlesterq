@@ -39,7 +39,7 @@ Employment Period: November 2023 - Present
 | Digital Forensic and Artifacts Extraction | 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
