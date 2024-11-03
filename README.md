@@ -30,7 +30,6 @@ Employment Period: November 2023 - Present
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Analysis and Open Source Intelligence         | <a href="https://github.com/johnlesterq1201/Decrypting-HTTPS-Traffic-for-Malicious-Activity-Detection">Decrypting HTTPS Traffic For Malicious Activity Detection </a>|
-| Microsoft Defender and Firewall  | <a href="https://google.com">Detection Lab</a>|
 | Intrusion Prevention/Detection System (IPS/IDS)         | SOC Automation Lab|
 | Vulnerability Scanning and Remediation      | SOC Automation Lab|
 | Endpoint Investigation using Sysmon and Event Viewer                  | SOC Automation Lab|
