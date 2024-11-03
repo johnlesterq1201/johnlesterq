@@ -3,7 +3,7 @@
 
 ## Objective
 
-Transitioning from a Service Desk Anaylst and seeking a full-time position in Cyber Security. With one year of experience in Incident Management, managing Microsoft Active Directory, Privilege Access Management Servers, and troubleshooting issues. I have earned both the CompTIA Security+ certification, which covers key areas like network security and risk management, and ISC2 Certified in Cybersecurity, focusing on foundational security concepts. Additionally, I am actively sharpening my skills on TryHackMe, gaining hands-on experience in cybersecurity techniques.
+Transitioning from a Service Desk Analyst and seeking a full-time position in Cyber Security. With one year of experience in Incident Management, managing Microsoft Active Directory, Privilege Access Management Servers, and troubleshooting issues. I have earned both the CompTIA Security+ certification, which covers key areas like network security and risk management, and ISC2 Certified in Cybersecurity, focusing on foundational security concepts. Additionally, I am actively sharpening my skills on TryHackMe, gaining hands-on experience in cybersecurity techniques.
 
 ## Experience
 Position: Service Desk Analyst
