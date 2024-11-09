@@ -30,7 +30,7 @@ Employment Period: November 2023 - Present
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Analysis and Open Source Intelligence         | <a href="https://github.com/johnlesterq1201/Decrypting-HTTPS-Traffic-for-Malicious-Activity-Detection">Decrypting HTTPS Traffic For Malicious Activity Detection </a>|
-| Intrusion Prevention/Detection System (IPS/IDS)         | SOC Automation Lab|
+| Intrusion Prevention/Detection System (IPS/IDS)         | <a href="https://github.com/johnlesterq1201/Creating-and-Implementing-Custom-Alert-Rules-in-Snort-Intrusion-Detection-and-Prevention-Systems">Creating and Implementing of Custom Alert Rules in Snort Intrusion Detection and Prevention Systems </a>|
 | Vulnerability Scanning and Remediation      | SOC Automation Lab|
 | Endpoint Investigation using Sysmon and Event Viewer                  | SOC Automation Lab|
 | Phishing Analysis and Malicious Artifacts | SOC Automation Lab|
