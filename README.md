@@ -31,7 +31,7 @@ Employment Period: November 2023 - Present
 |-----------------------------------------------|----------------------------|
 | Network Analysis and Open Source Intelligence         | <a href="https://github.com/johnlesterq1201/Decrypting-HTTPS-Traffic-for-Malicious-Activity-Detection">Decrypting HTTPS Traffic For Malicious Activity Detection </a>|
 | Intrusion Prevention/Detection System (IPS/IDS)         | <a href="https://github.com/johnlesterq1201/Creating-and-Implementing-Custom-Alert-Rules-in-Snort-Intrusion-Detection-and-Prevention-Systems">Creating and Implementing of Custom Alert Rules in Snort Intrusion Detection and Prevention Systems </a>|
-| Vulnerability Scanning and Remediation      | SOC Automation Lab|
+| Vulnerability Scanning and Remediation     | <a href="https://github.com/johnlesterq1201/Vulnerability-Assessment-in-Metasploitable-2-using-Nessus/blob/main/README.md"> Vulnerability Assessment in Metasploitable 2 using Nessus </a>|
 | Phishing Analysis and Malicious Artifacts | SOC Automation Lab|
 | Security Monitoring and Analysis | | 
 | Digital Forensic and Artifacts Extraction | 
